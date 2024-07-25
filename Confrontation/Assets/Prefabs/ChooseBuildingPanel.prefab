@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4999085984747228357
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8065565304889860691}
+  - component: {fileID: -5152644469780392805}
+  m_Layer: 7
+  m_Name: ChooseBuildingPanel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8065565304889860691
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4999085984747228357}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-5152644469780392805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4999085984747228357}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c332882126fa7b34aa0a1d07b3627ad9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: 21300000, guid: 22df442594862cf4d8536ee17616cafc, type: 3}
+  - {fileID: 21300000, guid: 710108dd8cc9e81409e0723a10b4bc4b, type: 3}
+  - {fileID: 21300000, guid: d2a7e6dc2b45c534692b08c39a5bdf35, type: 3}
+  - {fileID: 21300000, guid: b39c9511681aaf34fad54f14d3cf6693, type: 3}
+  - {fileID: 21300000, guid: 2413b5bf5b7fc204396f08c6da889a3a, type: 3}
+  - {fileID: 21300000, guid: f6165d8f043547b4f89e7568f50dd048, type: 3}
+  - {fileID: 21300000, guid: 413f3cc0bd542a54a81ef0817639b3a9, type: 3}

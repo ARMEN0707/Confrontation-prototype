@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 171a201890124f79b84c92542826f94e, type: 3}
+  m_Name: Building Library
+  m_EditorClassIdentifier: 
+  Buildings:
+    _dictionary:
+    - Key: 0
+      Value:
+        Spr: {fileID: 21300000, guid: 22df442594862cf4d8536ee17616cafc, type: 3}
+        Name: "\u041A\u0430\u0437\u0430\u0440\u043C\u044B"
+        Description: "\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442
+          \u044E\u043D\u0438\u0442\u043E\u0432 \u0441 \u0442\u0435\u0447\u0435\u043D\u0438\u0435\u043C
+          \u0432\u0440\u0435\u043C\u0435\u043D\u0438"
+    - Key: 1
+      Value:
+        Spr: {fileID: 21300000, guid: 710108dd8cc9e81409e0723a10b4bc4b, type: 3}
+        Name: "\u0424\u0435\u0440\u043C\u0430"
+        Description: "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+          \u043F\u0440\u0438\u0440\u043E\u0441\u0442 \u044E\u043D\u0438\u0442\u043E\u0432"
+    - Key: 2
+      Value:
+        Spr: {fileID: 21300000, guid: d2a7e6dc2b45c534692b08c39a5bdf35, type: 3}
+        Name: "\u041A\u0443\u0437\u043D\u0438\u0446\u0430"
+        Description: "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+          \u0431\u043E\u0435\u0432\u0443\u044E \u0441\u0438\u043B\u0443 \u044E\u043D\u0438\u0442\u043E\u0432"
+    - Key: 3
+      Value:
+        Spr: {fileID: 21300000, guid: b39c9511681aaf34fad54f14d3cf6693, type: 3}
+        Name: "\u0428\u0430\u0445\u0442\u0430"
+        Description: "\u041F\u0440\u0438\u043D\u043E\u0441\u0438\u0442 \u0434\u043E\u0445\u043E\u0434
+          \u0437\u043E\u043B\u043E\u0442\u043E\u043C \u0441 \u0442\u0435\u0447\u0435\u043D\u0438\u0435\u043C
+          \u0432\u0440\u0435\u043C\u0435\u043D\u0438"
+    - Key: 4
+      Value:
+        Spr: {fileID: 21300000, guid: 2413b5bf5b7fc204396f08c6da889a3a, type: 3}
+        Name: "\u041A\u043E\u043D\u044E\u0448\u043D\u044F"
+        Description: "\u0423\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+          \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u044C \u044E\u043D\u0438\u0442\u043E\u0432"
+    - Key: 5
+      Value:
+        Spr: {fileID: 21300000, guid: 19cfaf6a2dd5fdd439df9f20b6eb800b, type: 3}
+        Name: "\u041F\u043E\u0441\u0435\u043B\u0435\u043D\u0438\u0435"
+        Description: "\u0420\u0435\u0433\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439
+          \u0446\u0435\u043D\u0442\u0440, \u043E\u0431\u043B\u0430\u0434\u0430\u044E\u0449\u0438\u0439
+          \u043D\u0430\u0431\u043E\u0440\u043E\u043C \u043F\u043E\u0434\u0435\u043E\u043D\u043A\u0442\u0440\u043E\u043B\u044C\u043D\u044B\u0439
+          \u044F\u0447\u0435\u0435\u043A \u0438 \u0433\u0430\u0440\u043D\u0438\u0437\u043E\u043D\u043E\u043C"
+    - Key: 6
+      Value:
+        Spr: {fileID: 21300000, guid: 5c547aaff6f62ff4fa03c3a6becb6b19, type: 3}
+        Name: "\u0421\u0442\u043E\u043B\u0438\u0446\u0430"
+        Description: "\u0413\u043B\u0430\u0432\u043D\u043E\u0435 \u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435
+          \u043A\u043E\u043C\u0430\u043D\u0434\u044B, \u043E\u0431\u043B\u0430\u0434\u0430\u044E\u0449\u0435\u0435
+          \u0432\u0441\u0435\u043C\u0438 \u0441\u0432\u043E\u0439\u0441\u0432\u0430\u043C\u0438
+          \u043F\u043E\u0441\u0435\u043B\u0435\u043D\u0438\u044F, \u043A\u0430\u0437\u0430\u0440\u043C\u044B,
+          \u0448\u0430\u0445\u0442\u044B \u0438 \u0444\u0435\u0440\u043C\u044B"
+    _keyCollision: 0

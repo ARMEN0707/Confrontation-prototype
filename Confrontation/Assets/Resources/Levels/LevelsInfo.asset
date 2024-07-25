@@ -1,0 +1,1487 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b5c0558394e416d9e4fb05128349c3c, type: 3}
+  m_Name: LevelsInfo
+  m_EditorClassIdentifier: 
+  Levels:
+  - Center: {x: 0, y: 2.3}
+    Bounds: {x: 4, y: 3}
+    Regions:
+    - Cells:
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -0.384, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: -1.144, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: -1.5239999, y: 2.277, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.764, y: 2.277, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: 0.376, y: 2.8470001, z: 0.5}
+      - TeamID: 2
+        Position: {x: 1.1359999, y: 2.8470001, z: 0.5}
+      - TeamID: 2
+        Position: {x: 0.756, y: 2.277, z: 0.5}
+      - TeamID: 2
+        Position: {x: 0.376, y: 1.707, z: 0.5}
+      - TeamID: 2
+        Position: {x: 1.516, y: 2.277, z: 0.5}
+      - TeamID: 2
+        Position: {x: -0.004000008, y: 1.137, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: -2.284, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: 2.2759998, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: -2.284, y: 1.137, z: 0.5}
+    - Cells:
+      - TeamID: 4
+        Position: {x: 2.2759998, y: 1.137, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: -1.904, y: 3.987, z: 0.5}
+      - TeamID: 1
+        Position: {x: -2.284, y: 4.5569997, z: 0.5}
+      - TeamID: 1
+        Position: {x: -3.044, y: 4.5569997, z: 0.5}
+      - TeamID: 1
+        Position: {x: -3.8040001, y: 4.5569997, z: 0.5}
+      - TeamID: 1
+        Position: {x: -2.6639998, y: 3.987, z: 0.5}
+      - TeamID: 1
+        Position: {x: -3.424, y: 3.987, z: 0.5}
+      - TeamID: 1
+        Position: {x: -3.8040001, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: -3.044, y: 3.4169998, z: 0.5}
+      - TeamID: 1
+        Position: {x: -3.424, y: 2.8470001, z: 0.5}
+      - TeamID: 1
+        Position: {x: -2.6639998, y: 2.8470001, z: 0.5}
+      - TeamID: 1
+        Position: {x: -1.904, y: 2.8470001, z: 0.5}
+      - TeamID: 1
+        Position: {x: -3.8040001, y: 2.277, z: 0.5}
+      - TeamID: 1
+        Position: {x: -3.044, y: 2.277, z: 0.5}
+      - TeamID: 1
+        Position: {x: -2.284, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: -1.5239999, y: 3.4169998, z: 0.5}
+      - TeamID: 1
+        Position: {x: -1.5239999, y: 4.5569997, z: 0.5}
+      - TeamID: 1
+        Position: {x: -1.144, y: 3.987, z: 0.5}
+      - TeamID: 1
+        Position: {x: -0.384, y: 3.987, z: 0.5}
+      - TeamID: 1
+        Position: {x: -0.764, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: 3.7959998, y: 2.277, z: 0.5}
+      - TeamID: 2
+        Position: {x: 3.4160001, y: 2.8470001, z: 0.5}
+      - TeamID: 2
+        Position: {x: 3.036, y: 2.277, z: 0.5}
+      - TeamID: 2
+        Position: {x: 2.656, y: 2.8470001, z: 0.5}
+      - TeamID: 2
+        Position: {x: 2.2759998, y: 2.277, z: 0.5}
+      - TeamID: 2
+        Position: {x: 1.8959999, y: 2.8470001, z: 0.5}
+      - TeamID: 2
+        Position: {x: 3.036, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: 3.7959998, y: 3.4169998, z: 0.5}
+      - TeamID: 2
+        Position: {x: 3.4160001, y: 3.987, z: 0.5}
+      - TeamID: 2
+        Position: {x: 3.7959998, y: 4.5569997, z: 0.5}
+      - TeamID: 2
+        Position: {x: 2.656, y: 3.987, z: 0.5}
+      - TeamID: 2
+        Position: {x: 3.036, y: 4.5569997, z: 0.5}
+      - TeamID: 2
+        Position: {x: 2.2759998, y: 4.5569997, z: 0.5}
+      - TeamID: 2
+        Position: {x: 1.8959999, y: 3.987, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: 1.516, y: 3.4169998, z: 0.5}
+      - TeamID: 2
+        Position: {x: 1.1359999, y: 3.987, z: 0.5}
+      - TeamID: 2
+        Position: {x: 1.516, y: 4.5569997, z: 0.5}
+      - TeamID: 2
+        Position: {x: 0.756, y: 3.4169998, z: 0.5}
+      - TeamID: 2
+        Position: {x: 0.376, y: 3.987, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: 0.756, y: 4.5569997, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 4.5569997, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.764, y: 4.5569997, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: -3.8040001, y: -0.0029999912, z: 0.5}
+      - TeamID: 3
+        Position: {x: -3.424, y: 0.56700003, z: 0.5}
+      - TeamID: 3
+        Position: {x: -3.8040001, y: 1.137, z: 0.5}
+      - TeamID: 3
+        Position: {x: -3.424, y: 1.707, z: 0.5}
+      - TeamID: 3
+        Position: {x: -3.044, y: 1.137, z: 0.5}
+      - TeamID: 3
+        Position: {x: -2.6639998, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: -1.904, y: 1.707, z: 0.5}
+      - TeamID: 3
+        Position: {x: -1.5239999, y: 1.137, z: 0.5}
+      - TeamID: 3
+        Position: {x: -1.904, y: 0.56700003, z: 0.5}
+      - TeamID: 3
+        Position: {x: -2.6639998, y: 0.56700003, z: 0.5}
+      - TeamID: 3
+        Position: {x: -3.044, y: -0.0029999912, z: 0.5}
+      - TeamID: 3
+        Position: {x: -2.284, y: -0.0029999912, z: 0.5}
+      - TeamID: 3
+        Position: {x: -1.5239999, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 4
+        Position: {x: 2.656, y: 1.707, z: 0.5}
+      - TeamID: 4
+        Position: {x: 3.4160001, y: 1.707, z: 0.5}
+      - TeamID: 4
+        Position: {x: 3.036, y: 1.137, z: 0.5}
+      - TeamID: 4
+        Position: {x: 3.7959998, y: 1.137, z: 0.5}
+      - TeamID: 4
+        Position: {x: 3.4160001, y: 0.56700003, z: 0.5}
+      - TeamID: 4
+        Position: {x: 3.7959998, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 4
+        Position: {x: 1.8959999, y: 1.707, z: 0.5}
+      - TeamID: 4
+        Position: {x: 1.516, y: 1.137, z: 0.5}
+      - TeamID: 4
+        Position: {x: 1.8959999, y: 0.56700003, z: 0.5}
+      - TeamID: 4
+        Position: {x: 2.656, y: 0.56700003, z: 0.5}
+      - TeamID: 4
+        Position: {x: 3.036, y: -0.0029999912, z: 0.5}
+      - TeamID: 4
+        Position: {x: 2.2759998, y: -0.0029999912, z: 0.5}
+      - TeamID: 4
+        Position: {x: 1.516, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: -0.764, y: -0.0029999912, z: 0.5}
+      - TeamID: 3
+        Position: {x: -0.384, y: 0.56700003, z: 0.5}
+      - TeamID: 3
+        Position: {x: -1.144, y: 0.56700003, z: 0.5}
+      - TeamID: 3
+        Position: {x: -0.764, y: 1.137, z: 0.5}
+      - TeamID: 3
+        Position: {x: -1.144, y: 1.707, z: 0.5}
+      - TeamID: 3
+        Position: {x: -0.384, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 4
+        Position: {x: -0.004000008, y: -0.0029999912, z: 0.5}
+      - TeamID: 4
+        Position: {x: 0.756, y: -0.0029999912, z: 0.5}
+      - TeamID: 4
+        Position: {x: 1.1359999, y: 0.56700003, z: 0.5}
+      - TeamID: 4
+        Position: {x: 0.376, y: 0.56700003, z: 0.5}
+      - TeamID: 4
+        Position: {x: 0.756, y: 1.137, z: 0.5}
+      - TeamID: 4
+        Position: {x: 1.1359999, y: 1.707, z: 0.5}
+    Teams:
+    - TeamID: 0
+      Money: 0
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: -0.384, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: -1.144, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: -1.5239999, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.764, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 3.4169998, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: 0.376, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: 1.1359999, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.756, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.376, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: 1.516, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 1.137, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: 0.756, y: 4.5569997, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 4.5569997, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.764, y: 4.5569997, z: 0.5}
+    - TeamID: 1
+      Money: 156
+      Mana: 100
+      RegionsData:
+      - Cells:
+        - TeamID: 1
+          Position: {x: -2.284, y: 3.4169998, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: -1.904, y: 3.987, z: 0.5}
+        - TeamID: 1
+          Position: {x: -2.284, y: 4.5569997, z: 0.5}
+        - TeamID: 1
+          Position: {x: -3.044, y: 4.5569997, z: 0.5}
+        - TeamID: 1
+          Position: {x: -3.8040001, y: 4.5569997, z: 0.5}
+        - TeamID: 1
+          Position: {x: -2.6639998, y: 3.987, z: 0.5}
+        - TeamID: 1
+          Position: {x: -3.424, y: 3.987, z: 0.5}
+        - TeamID: 1
+          Position: {x: -3.8040001, y: 3.4169998, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: -3.044, y: 3.4169998, z: 0.5}
+        - TeamID: 1
+          Position: {x: -3.424, y: 2.8470001, z: 0.5}
+        - TeamID: 1
+          Position: {x: -2.6639998, y: 2.8470001, z: 0.5}
+        - TeamID: 1
+          Position: {x: -1.904, y: 2.8470001, z: 0.5}
+        - TeamID: 1
+          Position: {x: -3.8040001, y: 2.277, z: 0.5}
+        - TeamID: 1
+          Position: {x: -3.044, y: 2.277, z: 0.5}
+        - TeamID: 1
+          Position: {x: -2.284, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: -1.5239999, y: 3.4169998, z: 0.5}
+        - TeamID: 1
+          Position: {x: -1.5239999, y: 4.5569997, z: 0.5}
+        - TeamID: 1
+          Position: {x: -1.144, y: 3.987, z: 0.5}
+        - TeamID: 1
+          Position: {x: -0.384, y: 3.987, z: 0.5}
+        - TeamID: 1
+          Position: {x: -0.764, y: 3.4169998, z: 0.5}
+    - TeamID: 2
+      Money: 86
+      Mana: 100
+      RegionsData:
+      - Cells:
+        - TeamID: 2
+          Position: {x: 2.2759998, y: 3.4169998, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: 3.7959998, y: 2.277, z: 0.5}
+        - TeamID: 2
+          Position: {x: 3.4160001, y: 2.8470001, z: 0.5}
+        - TeamID: 2
+          Position: {x: 3.036, y: 2.277, z: 0.5}
+        - TeamID: 2
+          Position: {x: 2.656, y: 2.8470001, z: 0.5}
+        - TeamID: 2
+          Position: {x: 2.2759998, y: 2.277, z: 0.5}
+        - TeamID: 2
+          Position: {x: 1.8959999, y: 2.8470001, z: 0.5}
+        - TeamID: 2
+          Position: {x: 3.036, y: 3.4169998, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: 3.7959998, y: 3.4169998, z: 0.5}
+        - TeamID: 2
+          Position: {x: 3.4160001, y: 3.987, z: 0.5}
+        - TeamID: 2
+          Position: {x: 3.7959998, y: 4.5569997, z: 0.5}
+        - TeamID: 2
+          Position: {x: 2.656, y: 3.987, z: 0.5}
+        - TeamID: 2
+          Position: {x: 3.036, y: 4.5569997, z: 0.5}
+        - TeamID: 2
+          Position: {x: 2.2759998, y: 4.5569997, z: 0.5}
+        - TeamID: 2
+          Position: {x: 1.8959999, y: 3.987, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: 1.516, y: 3.4169998, z: 0.5}
+        - TeamID: 2
+          Position: {x: 1.1359999, y: 3.987, z: 0.5}
+        - TeamID: 2
+          Position: {x: 1.516, y: 4.5569997, z: 0.5}
+        - TeamID: 2
+          Position: {x: 0.756, y: 3.4169998, z: 0.5}
+        - TeamID: 2
+          Position: {x: 0.376, y: 3.987, z: 0.5}
+    - TeamID: 3
+      Money: 56
+      Mana: 100
+      RegionsData:
+      - Cells:
+        - TeamID: 3
+          Position: {x: -2.284, y: 1.137, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: -3.8040001, y: -0.0029999912, z: 0.5}
+        - TeamID: 3
+          Position: {x: -3.424, y: 0.56700003, z: 0.5}
+        - TeamID: 3
+          Position: {x: -3.8040001, y: 1.137, z: 0.5}
+        - TeamID: 3
+          Position: {x: -3.424, y: 1.707, z: 0.5}
+        - TeamID: 3
+          Position: {x: -3.044, y: 1.137, z: 0.5}
+        - TeamID: 3
+          Position: {x: -2.6639998, y: 1.707, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: -1.904, y: 1.707, z: 0.5}
+        - TeamID: 3
+          Position: {x: -1.5239999, y: 1.137, z: 0.5}
+        - TeamID: 3
+          Position: {x: -1.904, y: 0.56700003, z: 0.5}
+        - TeamID: 3
+          Position: {x: -2.6639998, y: 0.56700003, z: 0.5}
+        - TeamID: 3
+          Position: {x: -3.044, y: -0.0029999912, z: 0.5}
+        - TeamID: 3
+          Position: {x: -2.284, y: -0.0029999912, z: 0.5}
+        - TeamID: 3
+          Position: {x: -1.5239999, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: -0.764, y: -0.0029999912, z: 0.5}
+        - TeamID: 3
+          Position: {x: -0.384, y: 0.56700003, z: 0.5}
+        - TeamID: 3
+          Position: {x: -1.144, y: 0.56700003, z: 0.5}
+        - TeamID: 3
+          Position: {x: -0.764, y: 1.137, z: 0.5}
+        - TeamID: 3
+          Position: {x: -1.144, y: 1.707, z: 0.5}
+        - TeamID: 3
+          Position: {x: -0.384, y: 1.707, z: 0.5}
+    - TeamID: 4
+      Money: 80
+      Mana: 100
+      RegionsData:
+      - Cells:
+        - TeamID: 4
+          Position: {x: 2.2759998, y: 1.137, z: 0.5}
+      - Cells:
+        - TeamID: 4
+          Position: {x: 2.656, y: 1.707, z: 0.5}
+        - TeamID: 4
+          Position: {x: 3.4160001, y: 1.707, z: 0.5}
+        - TeamID: 4
+          Position: {x: 3.036, y: 1.137, z: 0.5}
+        - TeamID: 4
+          Position: {x: 3.7959998, y: 1.137, z: 0.5}
+        - TeamID: 4
+          Position: {x: 3.4160001, y: 0.56700003, z: 0.5}
+        - TeamID: 4
+          Position: {x: 3.7959998, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 4
+          Position: {x: 1.8959999, y: 1.707, z: 0.5}
+        - TeamID: 4
+          Position: {x: 1.516, y: 1.137, z: 0.5}
+        - TeamID: 4
+          Position: {x: 1.8959999, y: 0.56700003, z: 0.5}
+        - TeamID: 4
+          Position: {x: 2.656, y: 0.56700003, z: 0.5}
+        - TeamID: 4
+          Position: {x: 3.036, y: -0.0029999912, z: 0.5}
+        - TeamID: 4
+          Position: {x: 2.2759998, y: -0.0029999912, z: 0.5}
+        - TeamID: 4
+          Position: {x: 1.516, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 4
+          Position: {x: -0.004000008, y: -0.0029999912, z: 0.5}
+        - TeamID: 4
+          Position: {x: 0.756, y: -0.0029999912, z: 0.5}
+        - TeamID: 4
+          Position: {x: 1.1359999, y: 0.56700003, z: 0.5}
+        - TeamID: 4
+          Position: {x: 0.376, y: 0.56700003, z: 0.5}
+        - TeamID: 4
+          Position: {x: 0.756, y: 1.137, z: 0.5}
+        - TeamID: 4
+          Position: {x: 1.1359999, y: 1.707, z: 0.5}
+    Reward: 10
+  - Center: {x: 0, y: 2.3}
+    Bounds: {x: 3, y: 3}
+    Regions:
+    - Cells:
+      - TeamID: 1
+        Position: {x: -1.5239999, y: 4.5569997, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: -3.044, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 1.516, y: 4.5569997, z: 0.5}
+    - Cells:
+      - TeamID: 4
+        Position: {x: 3.036, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 5
+        Position: {x: 1.516, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 6
+        Position: {x: -1.5239999, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: -0.764, y: 4.5569997, z: 0.5}
+      - TeamID: 1
+        Position: {x: -1.144, y: 3.987, z: 0.5}
+      - TeamID: 1
+        Position: {x: -1.904, y: 3.987, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 0.756, y: 4.5569997, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.1359999, y: 3.987, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.8959999, y: 3.987, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: -2.6639998, y: 2.8470001, z: 0.5}
+      - TeamID: 2
+        Position: {x: -2.284, y: 2.277, z: 0.5}
+      - TeamID: 2
+        Position: {x: -2.6639998, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 4
+        Position: {x: 2.656, y: 2.8470001, z: 0.5}
+      - TeamID: 4
+        Position: {x: 2.2759998, y: 2.277, z: 0.5}
+      - TeamID: 4
+        Position: {x: 2.656, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 5
+        Position: {x: 1.8959999, y: 0.56700003, z: 0.5}
+      - TeamID: 5
+        Position: {x: 1.1359999, y: 0.56700003, z: 0.5}
+      - TeamID: 5
+        Position: {x: 0.756, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 6
+        Position: {x: -0.764, y: -0.0029999912, z: 0.5}
+      - TeamID: 6
+        Position: {x: -1.144, y: 0.56700003, z: 0.5}
+      - TeamID: 6
+        Position: {x: -1.904, y: 0.56700003, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: -0.384, y: 3.987, z: 0.5}
+      - TeamID: 1
+        Position: {x: -0.764, y: 3.4169998, z: 0.5}
+      - TeamID: 1
+        Position: {x: -1.5239999, y: 3.4169998, z: 0.5}
+      - TeamID: 1
+        Position: {x: -2.284, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: -1.904, y: 2.8470001, z: 0.5}
+      - TeamID: 2
+        Position: {x: -1.5239999, y: 2.277, z: 0.5}
+      - TeamID: 2
+        Position: {x: -1.904, y: 1.707, z: 0.5}
+      - TeamID: 2
+        Position: {x: -2.284, y: 1.137, z: 0.5}
+    - Cells:
+      - TeamID: 6
+        Position: {x: -1.5239999, y: 1.137, z: 0.5}
+      - TeamID: 6
+        Position: {x: -0.764, y: 1.137, z: 0.5}
+      - TeamID: 6
+        Position: {x: -0.384, y: 0.56700003, z: 0.5}
+      - TeamID: 6
+        Position: {x: -0.004000008, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 0.376, y: 3.987, z: 0.5}
+      - TeamID: 3
+        Position: {x: 0.756, y: 3.4169998, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.516, y: 3.4169998, z: 0.5}
+      - TeamID: 3
+        Position: {x: -0.004000008, y: 4.5569997, z: 0.5}
+    - Cells:
+      - TeamID: 4
+        Position: {x: 1.8959999, y: 2.8470001, z: 0.5}
+      - TeamID: 4
+        Position: {x: 1.516, y: 2.277, z: 0.5}
+      - TeamID: 4
+        Position: {x: 1.8959999, y: 1.707, z: 0.5}
+      - TeamID: 4
+        Position: {x: 2.2759998, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 5
+        Position: {x: 1.516, y: 1.137, z: 0.5}
+      - TeamID: 5
+        Position: {x: 0.756, y: 1.137, z: 0.5}
+      - TeamID: 5
+        Position: {x: 0.376, y: 0.56700003, z: 0.5}
+      - TeamID: 5
+        Position: {x: 2.2759998, y: 1.137, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -1.144, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.384, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 3.4169998, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.376, y: 2.8470001, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: 1.1359999, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.756, y: 2.277, z: 0.5}
+      - TeamID: 0
+        Position: {x: 1.1359999, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.376, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 1.137, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.384, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: -1.144, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.764, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 2.277, z: 0.5}
+    Teams:
+    - TeamID: 0
+      Money: 0
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 0
+          Position: {x: -1.144, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.384, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 3.4169998, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.376, y: 2.8470001, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: 1.1359999, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.756, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: 1.1359999, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.376, y: 1.707, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 1.137, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.384, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: -1.144, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.764, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 2.277, z: 0.5}
+    - TeamID: 1
+      Money: 200
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 1
+          Position: {x: -1.5239999, y: 4.5569997, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: -0.764, y: 4.5569997, z: 0.5}
+        - TeamID: 1
+          Position: {x: -1.144, y: 3.987, z: 0.5}
+        - TeamID: 1
+          Position: {x: -1.904, y: 3.987, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: -0.384, y: 3.987, z: 0.5}
+        - TeamID: 1
+          Position: {x: -0.764, y: 3.4169998, z: 0.5}
+        - TeamID: 1
+          Position: {x: -1.5239999, y: 3.4169998, z: 0.5}
+        - TeamID: 1
+          Position: {x: -2.284, y: 3.4169998, z: 0.5}
+    - TeamID: 2
+      Money: 200
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 2
+          Position: {x: -3.044, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: -2.6639998, y: 2.8470001, z: 0.5}
+        - TeamID: 2
+          Position: {x: -2.284, y: 2.277, z: 0.5}
+        - TeamID: 2
+          Position: {x: -2.6639998, y: 1.707, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: -1.904, y: 2.8470001, z: 0.5}
+        - TeamID: 2
+          Position: {x: -1.5239999, y: 2.277, z: 0.5}
+        - TeamID: 2
+          Position: {x: -1.904, y: 1.707, z: 0.5}
+        - TeamID: 2
+          Position: {x: -2.284, y: 1.137, z: 0.5}
+    - TeamID: 3
+      Money: 200
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 3
+          Position: {x: 0.756, y: 4.5569997, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.1359999, y: 3.987, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.8959999, y: 3.987, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: 1.516, y: 4.5569997, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: 0.376, y: 3.987, z: 0.5}
+        - TeamID: 3
+          Position: {x: 0.756, y: 3.4169998, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.516, y: 3.4169998, z: 0.5}
+        - TeamID: 3
+          Position: {x: -0.004000008, y: 4.5569997, z: 0.5}
+    - TeamID: 4
+      Money: 200
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 4
+          Position: {x: 3.036, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 4
+          Position: {x: 2.656, y: 2.8470001, z: 0.5}
+        - TeamID: 4
+          Position: {x: 2.2759998, y: 2.277, z: 0.5}
+        - TeamID: 4
+          Position: {x: 2.656, y: 1.707, z: 0.5}
+      - Cells:
+        - TeamID: 4
+          Position: {x: 1.8959999, y: 2.8470001, z: 0.5}
+        - TeamID: 4
+          Position: {x: 1.516, y: 2.277, z: 0.5}
+        - TeamID: 4
+          Position: {x: 1.8959999, y: 1.707, z: 0.5}
+        - TeamID: 4
+          Position: {x: 2.2759998, y: 3.4169998, z: 0.5}
+    - TeamID: 5
+      Money: 200
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 5
+          Position: {x: 1.516, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 5
+          Position: {x: 1.8959999, y: 0.56700003, z: 0.5}
+        - TeamID: 5
+          Position: {x: 1.1359999, y: 0.56700003, z: 0.5}
+        - TeamID: 5
+          Position: {x: 0.756, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 5
+          Position: {x: 1.516, y: 1.137, z: 0.5}
+        - TeamID: 5
+          Position: {x: 0.756, y: 1.137, z: 0.5}
+        - TeamID: 5
+          Position: {x: 0.376, y: 0.56700003, z: 0.5}
+        - TeamID: 5
+          Position: {x: 2.2759998, y: 1.137, z: 0.5}
+    - TeamID: 6
+      Money: 200
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 6
+          Position: {x: -1.5239999, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 6
+          Position: {x: -0.764, y: -0.0029999912, z: 0.5}
+        - TeamID: 6
+          Position: {x: -1.144, y: 0.56700003, z: 0.5}
+        - TeamID: 6
+          Position: {x: -1.904, y: 0.56700003, z: 0.5}
+      - Cells:
+        - TeamID: 6
+          Position: {x: -1.5239999, y: 1.137, z: 0.5}
+        - TeamID: 6
+          Position: {x: -0.764, y: 1.137, z: 0.5}
+        - TeamID: 6
+          Position: {x: -0.384, y: 0.56700003, z: 0.5}
+        - TeamID: 6
+          Position: {x: -0.004000008, y: -0.0029999912, z: 0.5}
+    Reward: 20
+  - Center: {x: 0, y: 2.3}
+    Bounds: {x: 3, y: 4}
+    Regions:
+    - Cells:
+      - TeamID: 1
+        Position: {x: -3.044, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: -0.004000008, y: 4.5569997, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 3.036, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: 1.1359999, y: 2.8470001, z: 0.5}
+      - TeamID: 1
+        Position: {x: 1.516, y: 2.277, z: 0.5}
+      - TeamID: 1
+        Position: {x: 1.8959999, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: 0.756, y: -0.0029999912, z: 0.5}
+      - TeamID: 2
+        Position: {x: -0.004000008, y: -0.0029999912, z: 0.5}
+      - TeamID: 2
+        Position: {x: -0.764, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: -1.144, y: 2.8470001, z: 0.5}
+      - TeamID: 3
+        Position: {x: -1.5239999, y: 2.277, z: 0.5}
+      - TeamID: 3
+        Position: {x: -1.904, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: -2.284, y: -0.0029999912, z: 0.5}
+      - TeamID: 1
+        Position: {x: -2.6639998, y: 0.56700003, z: 0.5}
+      - TeamID: 1
+        Position: {x: -1.5239999, y: -0.0029999912, z: 0.5}
+      - TeamID: 1
+        Position: {x: -2.284, y: 1.137, z: 0.5}
+      - TeamID: 1
+        Position: {x: -1.904, y: 0.56700003, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: 0.376, y: 3.987, z: 0.5}
+      - TeamID: 2
+        Position: {x: -0.384, y: 3.987, z: 0.5}
+      - TeamID: 2
+        Position: {x: 0.756, y: 3.4169998, z: 0.5}
+      - TeamID: 2
+        Position: {x: -0.004000008, y: 3.4169998, z: 0.5}
+      - TeamID: 2
+        Position: {x: -0.764, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 2.656, y: 0.56700003, z: 0.5}
+      - TeamID: 3
+        Position: {x: 2.2759998, y: -0.0029999912, z: 0.5}
+      - TeamID: 3
+        Position: {x: 2.2759998, y: 1.137, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.516, y: -0.0029999912, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.8959999, y: 0.56700003, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -1.144, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: -1.5239999, y: 1.137, z: 0.5}
+      - TeamID: 0
+        Position: {x: -1.144, y: 0.56700003, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.384, y: 0.56700003, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.764, y: 1.137, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.384, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: 0.376, y: 0.56700003, z: 0.5}
+      - TeamID: 0
+        Position: {x: 1.1359999, y: 0.56700003, z: 0.5}
+      - TeamID: 0
+        Position: {x: 1.516, y: 1.137, z: 0.5}
+      - TeamID: 0
+        Position: {x: 1.1359999, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.756, y: 1.137, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 1.137, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -0.384, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.376, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.756, y: 2.277, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.764, y: 2.277, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 2.277, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.376, y: 1.707, z: 0.5}
+    Teams:
+    - TeamID: 0
+      Money: 0
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 0
+          Position: {x: -1.144, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: -1.5239999, y: 1.137, z: 0.5}
+        - TeamID: 0
+          Position: {x: -1.144, y: 0.56700003, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.384, y: 0.56700003, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.764, y: 1.137, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.384, y: 1.707, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: 0.376, y: 0.56700003, z: 0.5}
+        - TeamID: 0
+          Position: {x: 1.1359999, y: 0.56700003, z: 0.5}
+        - TeamID: 0
+          Position: {x: 1.516, y: 1.137, z: 0.5}
+        - TeamID: 0
+          Position: {x: 1.1359999, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.756, y: 1.137, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 1.137, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: -0.384, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.376, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.756, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.764, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.376, y: 1.707, z: 0.5}
+    - TeamID: 1
+      Money: 250
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 1
+          Position: {x: -3.044, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: 1.1359999, y: 2.8470001, z: 0.5}
+        - TeamID: 1
+          Position: {x: 1.516, y: 2.277, z: 0.5}
+        - TeamID: 1
+          Position: {x: 1.8959999, y: 1.707, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: -2.284, y: -0.0029999912, z: 0.5}
+        - TeamID: 1
+          Position: {x: -2.6639998, y: 0.56700003, z: 0.5}
+        - TeamID: 1
+          Position: {x: -1.5239999, y: -0.0029999912, z: 0.5}
+        - TeamID: 1
+          Position: {x: -2.284, y: 1.137, z: 0.5}
+        - TeamID: 1
+          Position: {x: -1.904, y: 0.56700003, z: 0.5}
+    - TeamID: 2
+      Money: 250
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 2
+          Position: {x: -0.004000008, y: 4.5569997, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: 0.756, y: -0.0029999912, z: 0.5}
+        - TeamID: 2
+          Position: {x: -0.004000008, y: -0.0029999912, z: 0.5}
+        - TeamID: 2
+          Position: {x: -0.764, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: 0.376, y: 3.987, z: 0.5}
+        - TeamID: 2
+          Position: {x: -0.384, y: 3.987, z: 0.5}
+        - TeamID: 2
+          Position: {x: 0.756, y: 3.4169998, z: 0.5}
+        - TeamID: 2
+          Position: {x: -0.004000008, y: 3.4169998, z: 0.5}
+        - TeamID: 2
+          Position: {x: -0.764, y: 3.4169998, z: 0.5}
+    - TeamID: 3
+      Money: 250
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 3
+          Position: {x: 3.036, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: -1.144, y: 2.8470001, z: 0.5}
+        - TeamID: 3
+          Position: {x: -1.5239999, y: 2.277, z: 0.5}
+        - TeamID: 3
+          Position: {x: -1.904, y: 1.707, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: 2.656, y: 0.56700003, z: 0.5}
+        - TeamID: 3
+          Position: {x: 2.2759998, y: -0.0029999912, z: 0.5}
+        - TeamID: 3
+          Position: {x: 2.2759998, y: 1.137, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.516, y: -0.0029999912, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.8959999, y: 0.56700003, z: 0.5}
+    Reward: 30
+  - Center: {x: 0, y: 2.3}
+    Bounds: {x: 3.5, y: 3}
+    Regions:
+    - Cells:
+      - TeamID: 1
+        Position: {x: -0.004000008, y: 1.137, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: -3.044, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 3.036, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 4
+        Position: {x: -0.004000008, y: 4.5569997, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: -1.5239999, y: -0.0029999912, z: 0.5}
+      - TeamID: 1
+        Position: {x: -1.144, y: 0.56700003, z: 0.5}
+      - TeamID: 1
+        Position: {x: -0.384, y: 0.56700003, z: 0.5}
+      - TeamID: 1
+        Position: {x: -0.764, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: -2.284, y: 1.137, z: 0.5}
+      - TeamID: 2
+        Position: {x: -2.6639998, y: 1.707, z: 0.5}
+      - TeamID: 2
+        Position: {x: -2.284, y: 2.277, z: 0.5}
+      - TeamID: 2
+        Position: {x: -1.904, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 2.656, y: 1.707, z: 0.5}
+      - TeamID: 3
+        Position: {x: 2.2759998, y: 2.277, z: 0.5}
+      - TeamID: 3
+        Position: {x: 2.2759998, y: 1.137, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.8959999, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 4
+        Position: {x: -0.764, y: 4.5569997, z: 0.5}
+      - TeamID: 4
+        Position: {x: -1.144, y: 3.987, z: 0.5}
+      - TeamID: 4
+        Position: {x: -0.384, y: 3.987, z: 0.5}
+      - TeamID: 4
+        Position: {x: -0.764, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: 0.376, y: 0.56700003, z: 0.5}
+      - TeamID: 1
+        Position: {x: 1.1359999, y: 0.56700003, z: 0.5}
+      - TeamID: 1
+        Position: {x: 1.516, y: -0.0029999912, z: 0.5}
+      - TeamID: 1
+        Position: {x: 0.756, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: -1.5239999, y: 2.277, z: 0.5}
+      - TeamID: 2
+        Position: {x: -1.904, y: 2.8470001, z: 0.5}
+      - TeamID: 2
+        Position: {x: -1.5239999, y: 3.4169998, z: 0.5}
+      - TeamID: 2
+        Position: {x: -1.144, y: 2.8470001, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 1.8959999, y: 2.8470001, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.516, y: 2.277, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.516, y: 3.4169998, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.1359999, y: 2.8470001, z: 0.5}
+    - Cells:
+      - TeamID: 4
+        Position: {x: 0.756, y: 4.5569997, z: 0.5}
+      - TeamID: 4
+        Position: {x: 1.1359999, y: 3.987, z: 0.5}
+      - TeamID: 4
+        Position: {x: 0.376, y: 3.987, z: 0.5}
+      - TeamID: 4
+        Position: {x: 0.756, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 3.4169998, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.384, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.376, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -0.764, y: 1.137, z: 0.5}
+      - TeamID: 0
+        Position: {x: -1.5239999, y: 1.137, z: 0.5}
+      - TeamID: 0
+        Position: {x: -1.144, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.384, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.764, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: 1.516, y: 1.137, z: 0.5}
+      - TeamID: 0
+        Position: {x: 1.1359999, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.756, y: 2.277, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.376, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.756, y: 1.137, z: 0.5}
+    Teams:
+    - TeamID: 0
+      Money: 0
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 3.4169998, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.384, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.376, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: -0.764, y: 1.137, z: 0.5}
+        - TeamID: 0
+          Position: {x: -1.5239999, y: 1.137, z: 0.5}
+        - TeamID: 0
+          Position: {x: -1.144, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.384, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.764, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: 1.516, y: 1.137, z: 0.5}
+        - TeamID: 0
+          Position: {x: 1.1359999, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.756, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.376, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.756, y: 1.137, z: 0.5}
+    - TeamID: 1
+      Money: 300
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 1
+          Position: {x: -0.004000008, y: 1.137, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: -1.5239999, y: -0.0029999912, z: 0.5}
+        - TeamID: 1
+          Position: {x: -1.144, y: 0.56700003, z: 0.5}
+        - TeamID: 1
+          Position: {x: -0.384, y: 0.56700003, z: 0.5}
+        - TeamID: 1
+          Position: {x: -0.764, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: 0.376, y: 0.56700003, z: 0.5}
+        - TeamID: 1
+          Position: {x: 1.1359999, y: 0.56700003, z: 0.5}
+        - TeamID: 1
+          Position: {x: 1.516, y: -0.0029999912, z: 0.5}
+        - TeamID: 1
+          Position: {x: 0.756, y: -0.0029999912, z: 0.5}
+    - TeamID: 2
+      Money: 300
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 2
+          Position: {x: -3.044, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: -2.284, y: 1.137, z: 0.5}
+        - TeamID: 2
+          Position: {x: -2.6639998, y: 1.707, z: 0.5}
+        - TeamID: 2
+          Position: {x: -2.284, y: 2.277, z: 0.5}
+        - TeamID: 2
+          Position: {x: -1.904, y: 1.707, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: -1.5239999, y: 2.277, z: 0.5}
+        - TeamID: 2
+          Position: {x: -1.904, y: 2.8470001, z: 0.5}
+        - TeamID: 2
+          Position: {x: -1.5239999, y: 3.4169998, z: 0.5}
+        - TeamID: 2
+          Position: {x: -1.144, y: 2.8470001, z: 0.5}
+    - TeamID: 3
+      Money: 300
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 3
+          Position: {x: 3.036, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: 2.656, y: 1.707, z: 0.5}
+        - TeamID: 3
+          Position: {x: 2.2759998, y: 2.277, z: 0.5}
+        - TeamID: 3
+          Position: {x: 2.2759998, y: 1.137, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.8959999, y: 1.707, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: 1.8959999, y: 2.8470001, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.516, y: 2.277, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.516, y: 3.4169998, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.1359999, y: 2.8470001, z: 0.5}
+    - TeamID: 4
+      Money: 300
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 4
+          Position: {x: -0.004000008, y: 4.5569997, z: 0.5}
+      - Cells:
+        - TeamID: 4
+          Position: {x: -0.764, y: 4.5569997, z: 0.5}
+        - TeamID: 4
+          Position: {x: -1.144, y: 3.987, z: 0.5}
+        - TeamID: 4
+          Position: {x: -0.384, y: 3.987, z: 0.5}
+        - TeamID: 4
+          Position: {x: -0.764, y: 3.4169998, z: 0.5}
+      - Cells:
+        - TeamID: 4
+          Position: {x: 0.756, y: 4.5569997, z: 0.5}
+        - TeamID: 4
+          Position: {x: 1.1359999, y: 3.987, z: 0.5}
+        - TeamID: 4
+          Position: {x: 0.376, y: 3.987, z: 0.5}
+        - TeamID: 4
+          Position: {x: 0.756, y: 3.4169998, z: 0.5}
+    Reward: 40
+  - Center: {x: 0, y: 2.3}
+    Bounds: {x: 2, y: 3}
+    Regions:
+    - Cells:
+      - TeamID: 1
+        Position: {x: -0.004000008, y: -0.0029999912, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: -2.284, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 2.2759998, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: -0.764, y: -0.0029999912, z: 0.5}
+      - TeamID: 1
+        Position: {x: -0.384, y: 0.56700003, z: 0.5}
+      - TeamID: 1
+        Position: {x: -1.144, y: 0.56700003, z: 0.5}
+      - TeamID: 1
+        Position: {x: -0.764, y: 1.137, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: -2.6639998, y: 2.8470001, z: 0.5}
+      - TeamID: 2
+        Position: {x: -2.284, y: 2.277, z: 0.5}
+      - TeamID: 2
+        Position: {x: -1.904, y: 2.8470001, z: 0.5}
+      - TeamID: 2
+        Position: {x: -1.5239999, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 2.656, y: 2.8470001, z: 0.5}
+      - TeamID: 3
+        Position: {x: 2.2759998, y: 2.277, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.8959999, y: 2.8470001, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.516, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 1
+        Position: {x: 0.756, y: -0.0029999912, z: 0.5}
+      - TeamID: 1
+        Position: {x: 0.376, y: 0.56700003, z: 0.5}
+      - TeamID: 1
+        Position: {x: 0.756, y: 1.137, z: 0.5}
+      - TeamID: 1
+        Position: {x: 1.1359999, y: 0.56700003, z: 0.5}
+    - Cells:
+      - TeamID: 2
+        Position: {x: -1.904, y: 3.987, z: 0.5}
+      - TeamID: 2
+        Position: {x: -1.144, y: 3.987, z: 0.5}
+      - TeamID: 2
+        Position: {x: -0.764, y: 3.4169998, z: 0.5}
+      - TeamID: 2
+        Position: {x: -1.5239999, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 3
+        Position: {x: 1.8959999, y: 3.987, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.1359999, y: 3.987, z: 0.5}
+      - TeamID: 3
+        Position: {x: 1.516, y: 3.4169998, z: 0.5}
+      - TeamID: 3
+        Position: {x: 0.756, y: 3.4169998, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 2.277, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 3.4169998, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.384, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: -1.144, y: 2.8470001, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: 1.1359999, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.376, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.004000008, y: 1.137, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: -0.764, y: 2.277, z: 0.5}
+      - TeamID: 0
+        Position: {x: -0.384, y: 1.707, z: 0.5}
+      - TeamID: 0
+        Position: {x: -1.144, y: 1.707, z: 0.5}
+    - Cells:
+      - TeamID: 0
+        Position: {x: 1.1359999, y: 2.8470001, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.756, y: 2.277, z: 0.5}
+      - TeamID: 0
+        Position: {x: 0.376, y: 2.8470001, z: 0.5}
+    Teams:
+    - TeamID: 0
+      Money: 0
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 3.4169998, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.384, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: -1.144, y: 2.8470001, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: 1.1359999, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.376, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.004000008, y: 1.137, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: -0.764, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: -0.384, y: 1.707, z: 0.5}
+        - TeamID: 0
+          Position: {x: -1.144, y: 1.707, z: 0.5}
+      - Cells:
+        - TeamID: 0
+          Position: {x: 1.1359999, y: 2.8470001, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.756, y: 2.277, z: 0.5}
+        - TeamID: 0
+          Position: {x: 0.376, y: 2.8470001, z: 0.5}
+    - TeamID: 1
+      Money: 250
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 1
+          Position: {x: -0.004000008, y: -0.0029999912, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: -0.764, y: -0.0029999912, z: 0.5}
+        - TeamID: 1
+          Position: {x: -0.384, y: 0.56700003, z: 0.5}
+        - TeamID: 1
+          Position: {x: -1.144, y: 0.56700003, z: 0.5}
+        - TeamID: 1
+          Position: {x: -0.764, y: 1.137, z: 0.5}
+      - Cells:
+        - TeamID: 1
+          Position: {x: 0.756, y: -0.0029999912, z: 0.5}
+        - TeamID: 1
+          Position: {x: 0.376, y: 0.56700003, z: 0.5}
+        - TeamID: 1
+          Position: {x: 0.756, y: 1.137, z: 0.5}
+        - TeamID: 1
+          Position: {x: 1.1359999, y: 0.56700003, z: 0.5}
+    - TeamID: 2
+      Money: 250
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 2
+          Position: {x: -2.284, y: 3.4169998, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: -2.6639998, y: 2.8470001, z: 0.5}
+        - TeamID: 2
+          Position: {x: -2.284, y: 2.277, z: 0.5}
+        - TeamID: 2
+          Position: {x: -1.904, y: 2.8470001, z: 0.5}
+        - TeamID: 2
+          Position: {x: -1.5239999, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 2
+          Position: {x: -1.904, y: 3.987, z: 0.5}
+        - TeamID: 2
+          Position: {x: -1.144, y: 3.987, z: 0.5}
+        - TeamID: 2
+          Position: {x: -0.764, y: 3.4169998, z: 0.5}
+        - TeamID: 2
+          Position: {x: -1.5239999, y: 3.4169998, z: 0.5}
+    - TeamID: 3
+      Money: 250
+      Mana: 0
+      RegionsData:
+      - Cells:
+        - TeamID: 3
+          Position: {x: 2.2759998, y: 3.4169998, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: 2.656, y: 2.8470001, z: 0.5}
+        - TeamID: 3
+          Position: {x: 2.2759998, y: 2.277, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.8959999, y: 2.8470001, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.516, y: 2.277, z: 0.5}
+      - Cells:
+        - TeamID: 3
+          Position: {x: 1.8959999, y: 3.987, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.1359999, y: 3.987, z: 0.5}
+        - TeamID: 3
+          Position: {x: 1.516, y: 3.4169998, z: 0.5}
+        - TeamID: 3
+          Position: {x: 0.756, y: 3.4169998, z: 0.5}
+    Reward: 50
+  TeamSprites:
+  - {fileID: 21300110, guid: da9d6752771285a40a1b383e61336090, type: 3}
+  - {fileID: 21300044, guid: da9d6752771285a40a1b383e61336090, type: 3}
+  - {fileID: 21300100, guid: da9d6752771285a40a1b383e61336090, type: 3}
+  - {fileID: 21300076, guid: da9d6752771285a40a1b383e61336090, type: 3}
+  - {fileID: 21300026, guid: da9d6752771285a40a1b383e61336090, type: 3}
+  - {fileID: 21300094, guid: da9d6752771285a40a1b383e61336090, type: 3}
+  - {fileID: 21300104, guid: da9d6752771285a40a1b383e61336090, type: 3}
+  CellPrefab: {fileID: 2673098512875278442, guid: cc03440990653074dae74ec5247c84da, type: 3}
+  BarracksPrefab: {fileID: 3411349886475531932, guid: 71a97a5bb11b93543a7fce111048d9d0, type: 3}
+  FarmPrefab: {fileID: 7800776355851984134, guid: 9e4624bea0499fa46949e01730de76c9, type: 3}
+  StablePrefab: {fileID: 718053235973579351, guid: e7260814ce8813f4a90787d39b8033ef, type: 3}
+  ForgePrefab: {fileID: 3577487379553542213, guid: cc3fadfa8e1aedf43a8dd32df7db139a, type: 3}
+  MinePrefab: {fileID: 2856393412990692311, guid: 79321d6a9769ac940b907dc1f6813518, type: 3}
+  SettlementPrefab: {fileID: -122517740212361722, guid: a9059fde9e5e3c742960cf28eff56d4f, type: 3}
+  CapitalPrefab: {fileID: 1937430688861789577, guid: c2b67212923d11445839225fe4aaf4b0, type: 3}
+  WizardTowerPrefab: {fileID: -1711162028037636280, guid: bdec8a8eea083af4e974b9025b201195, type: 3}
